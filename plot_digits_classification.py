@@ -1,3 +1,5 @@
+assert 1==2
+
 """
 ================================
 Recognizing hand-written digits
