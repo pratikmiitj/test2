@@ -1,6 +1,6 @@
 Readme Main Branch
 
-mod action branch
+mod new branch
 
 check pull
 
